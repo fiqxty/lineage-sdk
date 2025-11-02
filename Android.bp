@@ -1,0 +1,16 @@
+java_library {
+    name: "org.lineageos.platform.internal",
+    srcs: [],
+}
+
+java_library {
+    name: "org.lineageos.platform",
+    srcs: [],
+}
+
+android_library {
+    name: "org.lineageos.platform-res",
+    resource_dirs: [],
+    manifest: "AndroidManifest.xml",
+}
+
